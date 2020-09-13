@@ -5,11 +5,11 @@
 **From Terminal :**<br>
 
 ```bash
-curl https://www.pt-ip.tk
+curl https://pt-ip.tk
 ```
 **From Browser (url):**<br>
 ```
-https://www.pt-ip.tk
+https://pt-ip.tk
 ```
 
 
