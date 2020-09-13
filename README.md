@@ -5,11 +5,11 @@
 **From Terminal :**<br>
 
 ```bash
-curl https://ipaddress.tuhinwin.workers.dev
+curl https://www.pt-ip.tk
 ```
 **From Browser (url):**<br>
 ```
-https://ipaddress.tuhinwin.workers.dev
+https://www.pt-ip.tk
 ```
 
 
